@@ -1,1 +1,0 @@
-# SIMPLE3D
